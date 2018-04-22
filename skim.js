@@ -14,7 +14,6 @@
   const article = d.getElementById('articleBody')
   const pars = article.childNodes[0].childNodes[0].childNodes[1]
   for (let i=0; i<pars.children.length; i++) {
-    console.log(skim(pars.children[i]))
     pars.children[i].innerHTML = skim(pars.children[i])
   }
 })()
