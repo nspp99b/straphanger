@@ -1,7 +1,7 @@
 # StrapHanger
 Because if you don't skim some of these articles, that mag is gonna start piling up in your house.  The extension highlights the first and last sentence of each paragraph of a New Yorker article for you, so you can skim it like a real New Yorker!
 
-###Getting Started
+### Getting Started
 Fork and clone the repo, then navigate to chrome://extensions to Load Unpacked Extension:
 ![load](screenshots/add_extension.png "Load Unpacked Extension")
 
